@@ -1,4 +1,3 @@
-# Netflix-Content-Analysis
 # Netflix Content Analysis 📊
 
 An interactive Power BI dashboard that explores Netflix movies and TV shows through data visualization.
